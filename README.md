@@ -1,3 +1,2 @@
 # exercise-repo2
-DA!
-NE!
+Hello, dear fella!
