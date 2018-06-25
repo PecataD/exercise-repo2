@@ -1,2 +1,2 @@
 # exercise-repo2
-hua
+huasa
